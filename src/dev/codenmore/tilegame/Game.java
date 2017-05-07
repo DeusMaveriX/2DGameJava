@@ -1,3 +1,9 @@
+/***
+ *
+ * Author: DeusMaveriX ( https://github.com/DeusMaveriX )
+ *
+ ***/
+
 package dev.codenmore.tilegame;
 
 import java.awt.Graphics;
